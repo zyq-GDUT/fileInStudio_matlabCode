@@ -1,1 +1,5 @@
 function A(){}
+function B(){
+	var a=A();
+}
+
