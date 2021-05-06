@@ -1,5 +1,6 @@
 function A(){}
 function B(){
 	var a=A();
+	var a2=A();
 }
 
